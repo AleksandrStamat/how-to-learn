@@ -43,8 +43,6 @@
   right: 0;
   bottom: 0;
   z-index: 1;
-  max-width: 50%;
-  height: auto;
 }
 .header__title {
   /* border: 1px solid red; */
@@ -226,8 +224,6 @@
   left: 0;
   bottom: 0;
   z-index: 0;
-  max-width: 50%;
-  height: auto;
 }
 .kaufman {
   /* border: 1px solid red; */
@@ -278,7 +274,7 @@
   margin-right: 0;
   margin-top: 80px;
 }
-.table__text_theme{
+.table__text_theme_dark{
   /* border: 1px solid red; */
   color: white;
   margin-bottom: 90px;
