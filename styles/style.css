@@ -36,12 +36,14 @@
   right: 0;
 }
 .header__main-illustration {
+  width: 765px;
+  height: 608px;
   /* border: 1px solid red; */
   position: absolute;
   right: 0;
   bottom: 0;
   z-index: 1;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 }
 .header__title {
@@ -218,6 +220,8 @@
   top: 50%;
 }
 .feynman__illustration{
+  width: 867px;
+  height: 637px;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -274,7 +278,7 @@
   margin-right: 0;
   margin-top: 80px;
 }
-.kaufman__table_text_theme{
+.table__text_theme{
   /* border: 1px solid red; */
   color: white;
   margin-bottom: 90px;
@@ -360,4 +364,7 @@
 }
 .footer__social-icon {
   margin-right: 10px;
+  width: 16px;
+  height: 16px;
+
 }
