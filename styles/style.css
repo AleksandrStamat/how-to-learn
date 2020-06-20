@@ -82,7 +82,8 @@
 }
 .two-columns__brief {
   margin: 0;
-  width: 175px;
+  max-width: 175px;
+  width: 100%;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -172,7 +173,8 @@
   position: relative;
   margin: 0 auto;
   padding-top: 100px;
-  width: 648px;
+  max-width: 648px;
+  width: 100%;
   line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
