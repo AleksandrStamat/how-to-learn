@@ -1,0 +1,19 @@
+@import url(../footer/__author/footer__author.css);
+@import url(../footer/__column-heading/footer__column-heading.css);
+@import url(../footer/__column-link/footer__column-link.css);
+@import url(../footer/__column-links/footer__column-links.css);
+@import url(../footer/__columns/footer__columns.css);
+@import url(../footer/__social-links/footer__social-links.css);
+@import url(../footer/__social-icon/footer__social-icon.css);
+@import url(../footer/__column/column.css);
+.footer {
+  display: flex;
+  align-content: stretch;
+  margin: 0;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  min-height: 350px;
+  background-color: #1f1f1f;
+  color: white;
+  box-sizing: border-box;
+}
