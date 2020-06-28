@@ -1,0 +1,9 @@
+@import url(./logo/logo.css);
+@import url(./__logo-zone/logo-zone.css);
+@import url(../section-title/section-title.css);
+@import url(../section-subtitle/section-subtitle.css);
+.resources {
+  margin: 0 auto;
+  position: relative;
+  padding-top: 100px;
+}

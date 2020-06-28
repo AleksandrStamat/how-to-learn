@@ -1,0 +1,14 @@
+@import url(./__container/container.css);
+@import url(./__author/author.css);
+@import url(./__title/title.css);
+@import url(./__quote/quote.css);
+@import url(./__quote-author/quote-author.css);
+@import url(./__quote-author-subline/quote-author-subline.css);
+@import url(./__buy-link/buy-link.css);
+@import url(./__book-container/book-container.css);
+@import url(./__book-pic/book-pic.css);
+.khan {
+  margin: 0 auto;
+  background-color: #f2f2f2;
+  position: relative;
+}

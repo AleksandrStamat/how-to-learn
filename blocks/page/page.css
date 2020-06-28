@@ -7,6 +7,11 @@
 @import url(../kaufman/kaufman.css);
 @import url(../logo/logo.css);
 @import url(../two-columns/two-columns.css);
+@import url(../techniques/techniques.css);
+@import url(../video/video.css);
+@import url(../oakley/oakley.css);
+@import url(../khan/khan.css);
+@import url(../resources/resources.css);
 .page {
   min-width: 1100px;
   max-width: 1600px;
