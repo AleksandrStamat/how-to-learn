@@ -1,3 +1,6 @@
-.iframe {
+.video__iframe {
   margin-right: 20px;
+  border: 0;
+  min-width: 560px;
+  min-height: 315px;
 }

@@ -1,4 +1,4 @@
-@import url(../../rotation/type_rotation.css);
+@import url(../../rotation/rotation.css);
 .kaufman__triangle {
   position: absolute;
   background-image: url(../../../images/kaufman-triangle.svg);

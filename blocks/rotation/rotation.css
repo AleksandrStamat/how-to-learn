@@ -6,7 +6,7 @@
       transform:rotate(360deg);
   }
 }
-.type_rotation {
+.rotation {
   animation-name: rotation;
   animation-duration: 20s;
   animation-timing-function: linear;

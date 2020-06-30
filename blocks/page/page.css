@@ -1,17 +1,3 @@
-@import url(../content/content.css);
-@import url(../description/description.css);
-@import url(../digits/digits.css);
-@import url(../feyman/feynman.css);
-@import url(../footer/footer.css);
-@import url(../header/header.css);
-@import url(../kaufman/kaufman.css);
-@import url(../logo/logo.css);
-@import url(../two-columns/two-columns.css);
-@import url(../techniques/techniques.css);
-@import url(../video/video.css);
-@import url(../oakley/oakley.css);
-@import url(../khan/khan.css);
-@import url(../resources/resources.css);
 .page {
   min-width: 1100px;
   max-width: 1600px;
