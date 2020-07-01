@@ -1,7 +1,5 @@
 @import url(./__iframes/iframes.css);
 @import url(./__iframe/iframe.css);
-@import url(../section-title/section-title.css);
-@import url(../section-subtitle/section-subtitle.css);
 .video {
   position: relative;
   margin: 0 auto;
