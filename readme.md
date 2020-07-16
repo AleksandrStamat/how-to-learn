@@ -11,3 +11,6 @@
 - **https://css-tricks.com/**
 - **https://stackoverflow.com/**
 - **https://developer.mozilla.org/**
+
+#GitHub Pages
+https://aleksandrstamat.github.io/how-to-learn/.
