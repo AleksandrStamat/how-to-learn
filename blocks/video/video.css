@@ -1,7 +1,10 @@
-@import url(./__iframes/iframes.css);
-@import url(./__iframe/iframe.css);
+@import url(./__iframe/video__iframe.css);
+@import url(./__iframes/video__iframes.css);
+
 .video {
-  position: relative;
-  margin: 0 auto;
-  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
+
+

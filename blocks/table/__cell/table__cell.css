@@ -1,5 +1,2 @@
-.table__cell{
-  margin-top: 60px;
-  width: 250px;
-  color: black;
-}
+@import url(./_theme/table__cell_theme_dark.css);
+@import url(./_theme/table__cell_theme_white.css);

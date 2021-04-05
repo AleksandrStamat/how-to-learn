@@ -1,16 +1,18 @@
-@import url(../header/__link/header__link.css);
-@import url(../header/__main-illustration/header__main-illustration.css);
-@import url(../header/__square-pic/header__square-pic.css);
-@import url(../header/__subtitle/header__subtitle.css);
-@import url(../header/__title/header__title.css);
+@import url(./__link/header__link.css);
+@import url(./__main-illustration/header__main-illustration.css);
+@import url(./__square-pic/header__square-pic.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__title/header__title.css);
+
 .header {
-  margin: 0 auto;
-  background-color: #f2f2f2;
   height: 100vh;
-  min-height: 608px;
+  min-height: 600px;
   max-height: 756px;
   display: flex;
   position: relative;
   overflow: hidden;
-
+  background-color: #F2F2F2;
+  z-index: 0;
 }
+
+
